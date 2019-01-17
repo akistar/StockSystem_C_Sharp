@@ -1,0 +1,11 @@
+/Users/akistar/Projects/StockSystem/StockSystem/bin/Debug/netcoreapp2.1/StockSystem.deps.json
+/Users/akistar/Projects/StockSystem/StockSystem/bin/Debug/netcoreapp2.1/StockSystem.runtimeconfig.json
+/Users/akistar/Projects/StockSystem/StockSystem/bin/Debug/netcoreapp2.1/StockSystem.runtimeconfig.dev.json
+/Users/akistar/Projects/StockSystem/StockSystem/bin/Debug/netcoreapp2.1/StockSystem.dll
+/Users/akistar/Projects/StockSystem/StockSystem/bin/Debug/netcoreapp2.1/StockSystem.pdb
+/Users/akistar/Projects/StockSystem/StockSystem/obj/Debug/netcoreapp2.1/StockSystem.csprojAssemblyReference.cache
+/Users/akistar/Projects/StockSystem/StockSystem/obj/Debug/netcoreapp2.1/StockSystem.csproj.CoreCompileInputs.cache
+/Users/akistar/Projects/StockSystem/StockSystem/obj/Debug/netcoreapp2.1/StockSystem.AssemblyInfoInputs.cache
+/Users/akistar/Projects/StockSystem/StockSystem/obj/Debug/netcoreapp2.1/StockSystem.AssemblyInfo.cs
+/Users/akistar/Projects/StockSystem/StockSystem/obj/Debug/netcoreapp2.1/StockSystem.dll
+/Users/akistar/Projects/StockSystem/StockSystem/obj/Debug/netcoreapp2.1/StockSystem.pdb
